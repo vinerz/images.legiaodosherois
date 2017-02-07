@@ -1,5 +1,5 @@
 <?php
-require_once './functions.php';
+require_once './lh-image.php';
 
 # allow more threads to work in parallel
 ini_set('memory_limit', '80M');
