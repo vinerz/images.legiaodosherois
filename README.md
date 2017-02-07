@@ -2,4 +2,4 @@
 
 Legião dos Heróis legacy image resizing system.
 
-Its source is now open due to an complete rewrite of the system (new Johto and Kanto servers).
+Its source is now open due to a complete rewrite of the system (new Johto and Kanto servers).
